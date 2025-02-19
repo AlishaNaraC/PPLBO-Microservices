@@ -36,4 +36,3 @@ build/
 docker/mysql/data/mysql.sock
 docker/mysql/data/*
 !docker/mysql/*.sql
-
