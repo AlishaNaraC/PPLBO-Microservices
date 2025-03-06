@@ -33,6 +33,6 @@ build/
 .vscode/
 
 ### Docker ###
-mysql/mysql.sock
 volume-data/mysql_keycloak_data/mysql.sock
+mysql/mysql.sock
 !mysql/*.sql
